@@ -1,5 +1,5 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
-import { inter } from '@/app/ui/font';
+import { inter } from '@/app/ui/fonts';
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
